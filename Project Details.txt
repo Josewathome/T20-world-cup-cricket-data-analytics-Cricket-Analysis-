@@ -1,0 +1,35 @@
+Project Title: T20 World Cup Cricket Data Analytics – Player Selection and Performance Analysis
+
+Project Overview:
+The T20 World Cup Cricket Data Analytics project aimed to leverage data-driven insights to identify the top 11 players for a T20 cricket team, ensuring the team's ability to score a minimum of 180 runs on average while defending 150 runs on average. The project employed a multifaceted approach, involving web scraping, data cleaning and transformation using Python's Pandas library, and data visualization with Power BI. It sought to provide an objective and evidence-based strategy for player selection, ultimately increasing the team's chances of success in T20 matches.
+
+Project Objectives:
+
+Create a Power BI report that facilitates the selection of the best 11 players for a T20 cricket team.
+Define specific criteria for player selection across different categories, including openers, middle-order batsmen, finishers, all-rounders, and specialist fast bowlers.
+Utilize web scraping techniques to collect player performance data from espncric.info.
+Clean and transform the collected data using Python's Pandas library to prepare it for analysis.
+Calculate relevant player performance metrics to assess their suitability for each category.
+Design a Power BI dashboard that provides a user-friendly interface for team selection based on the defined criteria.
+Ensure that the selected team meets the project's predefined targets of scoring at least 180 runs on average and defending 150 runs on average.
+Validate the effectiveness of the selected team by asserting that it has a 90% chance of winning matches.
+Methodology:
+
+Data Collection: Data was gathered from espncric.info, a reputable cricket statistics website, using a web scraping tool called Brightdata. This data included player statistics for batting and bowling performances.
+
+Data Cleaning and Transformation: Python's Pandas library was employed to clean and preprocess the collected data. This involved handling missing values, data type conversions, and ensuring consistency in data format.
+
+Performance Metrics Calculation: Various player performance metrics, such as Batting Average, Strike Rate, Boundary Percentage, Bowling Economy, Bowling Strike Rate, and others, were calculated based on the project's predefined criteria.
+
+Power BI Dashboard Creation: A Power BI dashboard was designed to visualize the player performance metrics and facilitate the selection of the top 11 players. The dashboard provided filters and interactive features for easy player selection.
+
+Team Selection: Players were categorized into different roles, including openers, middle-order batsmen, finishers, all-rounders, and specialist fast bowlers, based on their performance metrics and criteria compliance. The selected team aimed to meet the project's performance targets.
+
+Results:
+The project yielded a comprehensive Power BI dashboard that allowed users to evaluate player performance metrics and select the top 11 players for a T20 cricket team. The selected team was expected to score at least 180 runs on average and defend 150 runs on average, aligning with the project's objectives. Additionally, it was estimated that the team had a 90% chance of winning matches when chosen using the Power BI dashboard.
+
+Conclusion:
+The T20 World Cup Cricket Data Analytics project demonstrated the power of data-driven decision-making in the context of sports team selection. By applying web scraping, data cleaning, and transformation techniques, along with the creation of a user-friendly Power BI dashboard, the project provided a systematic approach to assembling a high-performing cricket team. This approach not only increased the team's chances of success but also showcased the value of data analytics in sports strategy.
+
+The project's methodology and outcomes can serve as a valuable resource for cricket team management and selectors looking to optimize player selection processes based on performance metrics and predefined criteria.
+
